@@ -20,4 +20,4 @@ Welcome to my profile! I'm currently studying administration at Uniasselvi unive
 * Aspiring to be a makeup artist 💄
 ##
 
-   ![Snake animation](https://github.com/imdebora/imdebora/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/imdebora/imdebora/blob/output/github-contribution-grid-snake.svg)
