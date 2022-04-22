@@ -18,3 +18,6 @@ Welcome to my profile! I'm currently studying administration at Uniasselvi unive
 * Pet mother 🐱
 * Favorite music style is R&B 🎶
 * Aspiring to be a makeup artist 💄
+##
+
+   ![Snake animation](https://github.com/imdebora/imdebora/blob/output/github-contribution-grid-snake.svg)
