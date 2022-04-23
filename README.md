@@ -18,6 +18,13 @@ Welcome to my profile! I'm currently studying administration at Uniasselvi unive
 * Pet mother 🐱
 * Favorite music style is R&B 🎶
 * Aspiring to be a makeup artist 💄
+
+<div align="center">
+  <a href="https://github.com/imdebora">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imdebora&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imdebora&layout=compact&langs_count=7&theme=synthwave"/>
+</div>
+
 ##
 
  ![Snake animation](https://github.com/imdebora/imdebora/blob/output/github-contribution-grid-snake.svg)
