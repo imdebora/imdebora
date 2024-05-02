@@ -1,4 +1,4 @@
-# Hi I'm Débora 🏳️‍🌈
+# Hi I'm Débora
 
 <div align="center">
 
